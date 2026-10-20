@@ -7,7 +7,7 @@ kartu-profil {
     width: 300px;
     margin: 50px auto;
     padding: 20px;
-    background-color: white;
+    background-color: black;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba (0,0,0,0,1);
   }
@@ -17,3 +17,22 @@ width: 150px
   border-radius: 50%;
 }
   
+kartu-profil {
+  <!DOCTYPE html>
+<html>
+<head>
+      <title>profil saya - Ulil albab</title>
+      <link rel="styleshee" herf="style.css">
+</head>
+<body>
+              <div class="kartu-profil">
+              <img src="Foto-profil.jpg" alt="Foto profil saya"> 
+    <h1>Ulil albab almuzacky</h1>
+    <p>SAYA tertarik pada hal-hal yang berbau teknologi</h2>
+    <a href="https://https://www.instagram.com/n23505124/">kunjungi ig saya</a>
+    <buton id="sapaButton">sapa saya!</buton>
+  <p style="text-align: center;"></p>
+              </div>
+  <script src="script.js"></script>
+</body>
+</html>
