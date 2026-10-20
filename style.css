@@ -1,5 +1,5 @@
 body {
-  background-color: #FFFE0; /* "warna kuning cerah */
+  background-color: #FFFEO; /* "warna kuning cerah */
   font-family: Arial,sans-serif; /* jenis huruf yang bersih dan  mudah  dibaca */
   color:#191976 /* warna teks utama biru */
 }
@@ -18,21 +18,5 @@ width: 150px
 }
   
 kartu-profil {
-  <!DOCTYPE html>
-<html>
-<head>
-      <title>profil saya - Ulil albab</title>
-      <link rel="styleshee" herf="style.css">
-</head>
-<body>
-              <div class="kartu-profil">
-              <img src="Foto-profil.jpg" alt="Foto profil saya"> 
-    <h1>Ulil albab almuzacky</h1>
-    <p>SAYA tertarik pada hal-hal yang berbau teknologi</h2>
-    <a href="https://https://www.instagram.com/n23505124/">kunjungi ig saya</a>
-    <buton id="sapaButton">sapa saya!</buton>
-  <p style="text-align: center;"></p>
-              </div>
-  <script src="script.js"></script>
-</body>
-</html>
+  
+  <p style="text-align: center;">teks ini berada di tengah.</p>
